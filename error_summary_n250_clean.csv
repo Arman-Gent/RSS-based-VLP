@@ -1,0 +1,10 @@
+Model_Type,90th_percentile,50th_percentile,mean_error
+gps_absolute,0.8562,0.1546,0.3298
+gps_relative,0.2289,0.0512,0.1156
+gps_log_d,0.0477,0.0064,0.0261
+nns_absolute,0.6638,0.2897,0.3639
+nns_relative,0.4045,0.1903,0.2301
+nns_log_d,0.1976,0.0885,0.11
+KANs_absolute,0.9295,0.3224,0.5102
+KANs_relative,0.8763,0.1711,0.3843
+KANs_log_d,0.2323,0.0688,0.1233

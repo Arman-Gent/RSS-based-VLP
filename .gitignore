@@ -1,0 +1,8 @@
+*.svg
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.bmp
+predictions/
